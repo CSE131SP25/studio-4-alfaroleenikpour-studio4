@@ -13,7 +13,7 @@ public class Flag {
 		StdDraw.setPenRadius(0.25);
 		StdDraw.setPenColor(lighterBlue);
 		StdDraw.line(0, 0.5, 1, 0.5);
-	//	StdDraw.setPenColor(Color.YELLOW);
+	
 		
 	}
 }
